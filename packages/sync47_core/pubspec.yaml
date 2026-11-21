@@ -1,0 +1,15 @@
+name: sync47_core
+description: Core models, crypto, and deduplication for Sync47 clipboard sync.
+version: 1.0.0
+
+environment:
+  sdk: ^3.12.0
+
+dependencies:
+  cryptography: ^2.7.0
+  crypto: ^3.0.3
+  convert: ^3.1.1
+
+dev_dependencies:
+  lints: ^6.0.0
+  test: ^1.25.6

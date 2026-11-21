@@ -1,0 +1,41 @@
+# Git ignore for Sync47 Monorepo
+
+# Flutter / Dart
+**/.dart_tool/
+**/.pub/
+**/.pub-cache/
+**/.flutter-plugins
+**/.flutter-plugins-dependencies
+**/build/
+**/coverage/
+**/doc/api/
+
+# Android / Gradle
+**/.gradle/
+**/local.properties
+**/android/app/debug/
+**/android/app/profile/
+**/android/app/release/
+**/*.keystore
+!**/debug.keystore
+
+# Windows / Visual Studio / CMake
+**/.vs/
+**/out/
+**/CMakeSettings.json
+**/*.user
+**/*.vcxproj.user
+
+# IDEs & System
+.idea/
+**/.idea/
+*.iml
+**/*.iml
+.vscode/
+**/.vscode/
+.DS_Store
+Thumbs.db
+*.log
+*.class
+*.swp
+*.bak

@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Sync47</string>
+    <string name="accessibility_service_label">Sync47 Auto-Clipboard Sync</string>
+    <string name="accessibility_service_description">Automatically detects copied text and synchronizes it to your paired PC over local Wi-Fi.</string>
+</resources>
