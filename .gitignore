@@ -6,7 +6,10 @@
 **/.pub-cache/
 **/.flutter-plugins
 **/.flutter-plugins-dependencies
+# Build outputs & releases
 **/build/
+**/dist/
+dist/
 **/coverage/
 **/doc/api/
 
